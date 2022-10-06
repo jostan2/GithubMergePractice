@@ -1,4 +1,4 @@
-﻿namespace GithubMergePractice
+namespace GithubMergePractice
 {
     internal class Program
     {
@@ -8,6 +8,7 @@
             //test alt branch 3
             //awawhwhwehwe
             //awehheheh
+            //test branch merge error creation
         }
     }
 }
